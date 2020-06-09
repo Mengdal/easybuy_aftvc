@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easybuy_final" />
+        <module name="demo_json" />
+        <module name="demo_springmvc_ajax_json" />
+        <module name="sell" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo_json" target="1.8" />
+      <module name="demo_springmvc_ajax_json" target="1.8" />
+      <module name="easybuy_final" target="1.8" />
+      <module name="sell" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="easybuy_final" options="-parameters" />
+    </option>
+  </component>
+</project>

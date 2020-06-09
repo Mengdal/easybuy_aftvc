@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="demo_json:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c970fcd-b6ee-417d-b6c7-2eb66373083e" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1cppVwUsXObPYrYt9ImXlJZYpwA" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo_json/src/main/webapp/static/js" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="gradle.compiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\程序猿\idea\easybuy_final\src\main\resources" />
+      <recent name="D:\IdeaProjects\sell\src\main\resources\templates\front_tai" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ied.easy.mvc.front_mvc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ied.easy.mvc" />
+      <recent name="ied.easy.bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\程序猿\idea\demo_json\src\main\webapp\static\js" />
+      <recent name="D:\程序猿\idea\demo_springmvc_ajax_json\src\main" />
+      <recent name="D:\程序猿\idea\easybuy_final\src\main\resources\static" />
+      <recent name="D:\程序猿\idea\easybuy\sell\src\main\resources\static\images" />
+      <recent name="D:\IdeaProjects\sell\src\main\resources\templates\front_tai" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SellApplication">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EasybuyApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="easybuy_final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aftvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aftvc" />
+      <option name="MAIN_CLASS_NAME" value="com.aftvc.EasybuyApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ied.easy.SellApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.34" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="demo_json:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/demo_json_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="未命名_sell_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54259" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="demo_json:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.EasybuyApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.SellApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.34" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EasybuyApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\qq371562656\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c970fcd-b6ee-417d-b6c7-2eb66373083e" name="Default" comment="" />
+      <created>1497942339831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497942339831</updated>
+      <workItem from="1497942343232" duration="9986000" />
+      <workItem from="1497969911558" duration="302000" />
+      <workItem from="1498004004476" duration="8654000" />
+      <workItem from="1498027927220" duration="9084000" />
+      <workItem from="1498044849535" duration="2394000" />
+      <workItem from="1498092496766" duration="8354000" />
+      <workItem from="1498102694583" duration="674000" />
+      <workItem from="1498116029053" duration="876000" />
+      <workItem from="1498116960893" duration="232000" />
+      <workItem from="1498178503864" duration="2080000" />
+      <workItem from="1498180990999" duration="1932000" />
+      <workItem from="1498183072531" duration="4167000" />
+      <workItem from="1498194798545" duration="3575000" />
+      <workItem from="1498198781673" duration="968000" />
+      <workItem from="1498199795277" duration="5262000" />
+      <workItem from="1498207494737" duration="2523000" />
+      <workItem from="1498263562745" duration="2838000" />
+      <workItem from="1498267528087" duration="4532000" />
+      <workItem from="1498287241769" duration="7047000" />
+      <workItem from="1498377099248" duration="8264000" />
+      <workItem from="1498403972097" duration="2776000" />
+      <workItem from="1498406790556" duration="441000" />
+      <workItem from="1498435942672" duration="11404000" />
+      <workItem from="1498459857412" duration="6519000" />
+      <workItem from="1498474794862" duration="138000" />
+      <workItem from="1498476898181" duration="920000" />
+      <workItem from="1498523468457" duration="2873000" />
+      <workItem from="1498530036904" duration="2382000" />
+      <workItem from="1498546760367" duration="13224000" />
+      <workItem from="1498565091319" duration="3251000" />
+      <workItem from="1498571893388" duration="914000" />
+      <workItem from="1498577007545" duration="200000" />
+      <workItem from="1498610132332" duration="6229000" />
+      <workItem from="1498633092399" duration="8683000" />
+      <workItem from="1498695792669" duration="4465000" />
+      <workItem from="1498719553396" duration="7430000" />
+      <workItem from="1498743271528" duration="657000" />
+      <workItem from="1498748435173" duration="1355000" />
+      <workItem from="1498782083479" duration="9688000" />
+      <workItem from="1498805567738" duration="5236000" />
+      <workItem from="1498813478125" duration="3223000" />
+      <workItem from="1498824753030" duration="3700000" />
+      <workItem from="1498828551482" duration="1003000" />
+      <workItem from="1498868537600" duration="12340000" />
+      <workItem from="1498891757793" duration="1360000" />
+      <workItem from="1591235423231" duration="24112000" />
+      <workItem from="1591323078206" duration="7418000" />
+      <workItem from="1591495528219" duration="29000" />
+      <workItem from="1591508848257" duration="8532000" />
+      <workItem from="1591580447215" duration="5957000" />
+      <workItem from="1591666641832" duration="50000" />
+      <workItem from="1591675339356" duration="1744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" width="1150" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591583793250">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" width="1150" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1591583793250" />
+    <state x="531" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1591512762187">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="531" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1591512762187" />
+    <state x="558" y="156" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591511058360">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="558" y="156" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864@0.0.1536.864" timestamp="1591511058360" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591238121263">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591238121263" />
+    <state x="532" y="221" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1591511833606">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="532" y="221" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.864@0.0.1536.864" timestamp="1591511833606" />
+    <state x="413" y="245" key="FileChooserDialogImpl" timestamp="1591511811186">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="413" y="245" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591511811186" />
+    <state x="883" y="331" key="Github.CreateGistDialog" timestamp="1591584716404">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="883" y="331" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1591584716404" />
+    <state width="962" height="199" key="GridCell.Tab.0.bottom" timestamp="1591676962482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591676962482" />
+    <state width="652" height="226" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="962" height="199" key="GridCell.Tab.0.center" timestamp="1591676962481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591676962481" />
+    <state width="652" height="226" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="962" height="199" key="GridCell.Tab.0.left" timestamp="1591676962481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591676962481" />
+    <state width="652" height="226" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="962" height="199" key="GridCell.Tab.0.right" timestamp="1591676962481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591676962481" />
+    <state width="652" height="226" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="962" height="199" key="GridCell.Tab.1.bottom" timestamp="1591676962482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591676962482" />
+    <state width="652" height="226" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="962" height="199" key="GridCell.Tab.1.center" timestamp="1591676962482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591676962482" />
+    <state width="652" height="226" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="962" height="199" key="GridCell.Tab.1.left" timestamp="1591676962482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591676962482" />
+    <state width="652" height="226" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="962" height="199" key="GridCell.Tab.1.right" timestamp="1591676962482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="962" height="199" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591676962482" />
+    <state width="652" height="226" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="652" height="226" key="GridCell.Tab.2.bottom" timestamp="1591588345309">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591588345309" />
+    <state width="652" height="226" key="GridCell.Tab.2.center" timestamp="1591588345309">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1591588345309" />
+    <state width="652" height="226" key="GridCell.Tab.2.left" timestamp="1591588345308">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1591588345308" />
+    <state width="652" height="226" key="GridCell.Tab.2.right" timestamp="1591588345309">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="652" height="226" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1591588345309" />
+    <state x="598" y="111" key="Maven.ArtifactSearchDialog" timestamp="1591275687052">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="598" y="111" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1591275687052" />
+    <state x="135" y="14" key="SettingsEditor" timestamp="1591511841074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="135" y="14" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591511841074" />
+    <state x="849" y="213" width="601" height="584" key="find.popup" timestamp="1591258602838">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="849" y="213" width="601" height="584" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1591258602838" />
+    <state x="534" y="90" key="new project wizard" timestamp="1591677040086">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="534" y="90" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1591677040086" />
+    <state x="639" y="76" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1591511273545" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
